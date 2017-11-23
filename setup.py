@@ -24,7 +24,7 @@ setup(
     version='0.0.1',
     description='Aliyun SMS',
     long_description=long_description,
-    url='https://github.com/wilslee/aliyun-sms',
+    url='https://github.com/SaySayK/aliyun-sms',
     author='wilslee',
     license='MIT',
     classifiers=[
